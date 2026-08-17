@@ -1,0 +1,74 @@
+[
+  {
+    "product_id": "PROD-2001",
+    "sku": "KB-WL-104",
+    "name": "Wireless Keyboard",
+    "category": "Electronics",
+    "brand": "Northline",
+    "standard_price": 49.99,
+    "active": true
+  },
+  {
+    "product_id": "PROD-2002",
+    "sku": "MS-BT-220",
+    "name": "Bluetooth Mouse",
+    "category": "Electronics",
+    "brand": "Northline",
+    "standard_price": 29.99,
+    "active": true
+  },
+  {
+    "product_id": "PROD-2003",
+    "sku": "MN-27-4K",
+    "name": "27 Inch 4K Monitor",
+    "category": "Electronics",
+    "brand": "ViewPeak",
+    "standard_price": 329.99,
+    "active": true
+  },
+  {
+    "product_id": "PROD-2004",
+    "sku": "DSK-ST-60",
+    "name": "Standing Desk",
+    "category": "Office Furniture",
+    "brand": "ErgoWorks",
+    "standard_price": 499.00,
+    "active": true
+  },
+  {
+    "product_id": "PROD-2005",
+    "sku": "CHR-ER-18",
+    "name": "Ergonomic Chair",
+    "category": "Office Furniture",
+    "brand": "ErgoWorks",
+    "standard_price": 249.50,
+    "active": true
+  },
+  {
+    "product_id": "PROD-2006",
+    "sku": "HDST-USB-8",
+    "name": "USB-C Headset",
+    "category": "Electronics",
+    "brand": "SoundDesk",
+    "standard_price": 89.95,
+    "active": true
+  },
+  {
+    "product_id": "PROD-2007",
+    "sku": "NTBK-A5-48",
+    "name": "A5 Notebook Pack",
+    "category": "Office Supplies",
+    "brand": "PaperTrail",
+    "standard_price": 14.99,
+    "active": true
+  },
+  {
+    "product_id": "PROD-2008",
+    "sku": "PEN-GEL-12",
+    "name": "Gel Pen Set",
+    "category": "Office Supplies",
+    "brand": "PaperTrail",
+    "standard_price": 8.49,
+    "active": true
+  }
+]
